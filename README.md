@@ -1,2 +1,3 @@
-# PauliniaNews
- site de noticias
+# site_responsivo
+ 
+# site de noticias de paulinia e região
